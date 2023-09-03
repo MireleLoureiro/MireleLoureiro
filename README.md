@@ -1,16 +1,16 @@
-### Hi there 👋
+## Mirele Loureiro
+Estudante do curso de Ciência da computação pela Faculdade UNIFG.
 
-<!--
-**MireleLoureiro/MireleLoureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=939)](www.linkedin.com/in/mirele-loureiro-27a42a277)
+[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=939)](mailto:miloureiro112@gmail.com)
 
-Here are some ideas to get you started:
+## Habilidades
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=939)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=939)](https://git-scm.com/doc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mireleloureiro&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=939&title_color=939&text_color=fff&hide_title=true)
