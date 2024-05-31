@@ -1,5 +1,5 @@
 ## Mirele Loureiro
-Estudante do curso de Ciência da computação pela Faculdade UNIFG.
+Estudante do curso de Ciência da computação na faculdade Uninassau.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=939)](www.linkedin.com/in/mirele-loureiro-27a42a277)
